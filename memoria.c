@@ -2,7 +2,7 @@
 #include <math.h>
 #include <stdlib.h>
 #include <unistd.h>
-
+#include <sys/types.h>
 
 void aloca(){
    char *f;
